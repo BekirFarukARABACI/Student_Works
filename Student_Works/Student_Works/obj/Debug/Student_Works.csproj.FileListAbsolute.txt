@@ -1,0 +1,17 @@
+C:\Users\Bekir\Documents\GitHub\Student_Works\Student_Works\Student_Works\bin\Debug\Student_Works.exe.config
+C:\Users\Bekir\Documents\GitHub\Student_Works\Student_Works\Student_Works\bin\Debug\Student_Works.exe
+C:\Users\Bekir\Documents\GitHub\Student_Works\Student_Works\Student_Works\bin\Debug\Student_Works.pdb
+C:\Users\Bekir\Documents\GitHub\Student_Works\Student_Works\Student_Works\bin\Debug\MySql.Data.dll
+C:\Users\Bekir\Documents\GitHub\Student_Works\Student_Works\Student_Works\bin\Debug\MySql.Data.xml
+C:\Users\Bekir\Documents\GitHub\Student_Works\Student_Works\Student_Works\obj\Debug\Student_Works.csproj.AssemblyReference.cache
+C:\Users\Bekir\Documents\GitHub\Student_Works\Student_Works\Student_Works\obj\Debug\Student_Works.Properties.Resources.resources
+C:\Users\Bekir\Documents\GitHub\Student_Works\Student_Works\Student_Works\obj\Debug\Student_Works.csproj.GenerateResource.cache
+C:\Users\Bekir\Documents\GitHub\Student_Works\Student_Works\Student_Works\obj\Debug\Student_Works.csproj.CoreCompileInputs.cache
+C:\Users\Bekir\Documents\GitHub\Student_Works\Student_Works\Student_Works\obj\Debug\Student_Works.csproj.CopyComplete
+C:\Users\Bekir\Documents\GitHub\Student_Works\Student_Works\Student_Works\obj\Debug\Student_Works.exe
+C:\Users\Bekir\Documents\GitHub\Student_Works\Student_Works\Student_Works\obj\Debug\Student_Works.pdb
+C:\Users\Bekir\Documents\GitHub\Student_Works\Student_Works\Student_Works\obj\Debug\Student_Works.StudentAdd.resources
+C:\Users\Bekir\Documents\GitHub\Student_Works\Student_Works\Student_Works\obj\Debug\Student_Works.StudentWorks.resources
+C:\Users\Bekir\Documents\GitHub\Student_Works\Student_Works\Student_Works\obj\Debug\Student_Works.StudentUpdate.resources
+C:\Users\Bekir\Documents\GitHub\Student_Works\Student_Works\Student_Works\obj\Debug\Student_Works.StudentDelete.resources
+C:\Users\Bekir\Documents\GitHub\Student_Works\Student_Works\Student_Works\obj\Debug\Student_Works.StudentList.resources
